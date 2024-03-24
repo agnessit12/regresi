@@ -5,7 +5,8 @@ Ini adalah relasi antara salary dan years experience
 
 ## Screenshots
 
-![App Screenshot](./images.jpeg)
+![Data salary dan years experience](https://i.imgur.com/Lgc4f0t.jpg)
+
 
 
 ## Run Locally
